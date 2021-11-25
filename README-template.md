@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-[](ntf-preview-card-component.PNG)
+![](ntf-preview-card-component.PNG)
 
 ### Links
 
