@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](nft-preview-card-component-main\nft-preview-card-component-main)
+(nft-preview-card-component-main\nft-preview-card-component-main)
 
 ### Links
 
