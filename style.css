@@ -128,6 +128,12 @@ body {
     }
 }
 
+@media (max-width: 385px){
+    .main-card__content--price {
+        width: 30%;
+    }
+}
+
 .main-card__content--price img {
     width: 14%;
     height: 50%;
@@ -148,6 +154,12 @@ body {
 }
 
 @media (max-width: 320px){
+    .main-card__content--days {
+        width: 30%;
+    }
+}
+
+@media (max-width: 385px){
     .main-card__content--days {
         width: 30%;
     }
@@ -180,6 +192,11 @@ body {
 }
 
 @media (max-width: 320px){
+    .avatar-section {
+        width: 90%;
+    }
+}
+@media (max-width: 385px){
     .avatar-section {
         width: 90%;
     }
